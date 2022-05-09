@@ -8,6 +8,6 @@ patients 65 or older experienced side effects from the drug, and around 95% of p
 1. Data preprocessing, creating dummy data from out system model (which is a made-up story in this case)
 2. Creating a simple Neural Network by using Keras API
 3. Training, first complie the model by using compile() , then train the model by using fit()
-4. Testing, the model make predictions for the test_samples based on what it's learned from the train_samples, this process is called "inference"
+4. Testing, the model make predictions for the test_samples based on what it learned from the train_samples, this process is called "inference"
 5. Plotting a confusion Matrix to evaluate how well the model perform
 6. Save and Load the model, three different ways to save a Keras model
