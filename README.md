@@ -10,4 +10,4 @@ patients 65 or older experienced side effects from the drug, and around 95% of p
 3. Training, first complie the model by using compile() , then train the model by using fit()
 4. Testing, the model make predictions for the test_samples based on what it learned from the train_samples, this process is called "inference"
 5. Plotting a confusion Matrix to evaluate how well the model perform
-6. Save and Load the model, three different ways to save a Keras model
+6. Save and Load the model, there are three different ways to save a Keras model with its weights both and separately
