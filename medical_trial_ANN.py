@@ -348,3 +348,4 @@ model_3.load_weights('D:\computer science lab\ANN_medical trial\model_weights_3.
 print(model_3.get_weights())
 """
 
+
